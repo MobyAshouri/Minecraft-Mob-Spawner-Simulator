@@ -1,7 +1,7 @@
 # Minecraft Mob Spawner Simulator (MMSS)
 This Minecraft Mob Spawner Simulator replicates Minecraft: Java Edition's Mob Spawner spawn logic. This is useful for server-based gamemodes such as Factions.
 
-This program can be used to calculate the number of spawners needed relative to a player's mob kill rate to create an equilibrium to maximized mob drops.
+This program can be used to calculate the number of spawners needed relative to a player's mob kill rate to create an equilibrium to maximized mob drops and xp gain.
 
 # Spawn Logic
 In Minecraft: Java Edition, a mob spawner only functions in client light levels below 12.
